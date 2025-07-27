@@ -43,7 +43,7 @@ This app allows users to:
 ## 📸 Preview
 
 > Replace this with an actual screenshot once your app is running.
-
+![Alt text](image.PNG)
 
 
 ---
